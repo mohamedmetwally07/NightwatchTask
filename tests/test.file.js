@@ -1,7 +1,7 @@
 
 
 module.exports = {
-    'NW test on Google' : function (CRUD_APP) {
+    'Test CRUD APP' : function (CRUD_APP) {
       CRUD_APP
         
         .maximizeWindow()
